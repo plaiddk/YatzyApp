@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YatzyApp.Core", "YatzyApp.Core\YatzyApp.Core.csproj", "{E0D4209A-9F37-4D99-87F9-563629A71963}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YatzyApp.Console", "YatzyApp.Console\YatzyApp.Console.csproj", "{4ED16E04-B1E0-429E-AA35-3D1D698DAB41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YatzyApp.UnitTestApp", "YatzyApp.UnitTestApp\YatzyApp.UnitTestApp.csproj", "{B1835973-5167-4CB9-A11A-716017E58113}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{E0D4209A-9F37-4D99-87F9-563629A71963}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0D4209A-9F37-4D99-87F9-563629A71963}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0D4209A-9F37-4D99-87F9-563629A71963}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED16E04-B1E0-429E-AA35-3D1D698DAB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED16E04-B1E0-429E-AA35-3D1D698DAB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED16E04-B1E0-429E-AA35-3D1D698DAB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED16E04-B1E0-429E-AA35-3D1D698DAB41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1835973-5167-4CB9-A11A-716017E58113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1835973-5167-4CB9-A11A-716017E58113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1835973-5167-4CB9-A11A-716017E58113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1835973-5167-4CB9-A11A-716017E58113}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
